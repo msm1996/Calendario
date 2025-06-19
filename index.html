@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Calendario</title>
+</head>
+
+<body>
+  <div class="messes-do-ano">
+    <h1>Calendário</h1>
+    <div class="imagem-container" onclick="trocarImagem()">
+      <img id="img1" src="imagem1.jpg" class="imagem visivel" alt="">
+      <img id="img2" src="imagem2.jpg" class="imagem invisivel"alt>
+    </div>
+
+    <h2 id="mesAno">Janeiro de 2025</h2>
+    <div class="botoes-meses">
+      <button id="anterior">◀</button>
+      <button id="proximo">▶</button>
+    </div>
+
+  </div>
+
+
+  <table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+      <tr>
+        <th>Domingo</th>
+        <th>Segunda-feira</th>
+        <th>Terça-feira</th>
+        <th>Quarta-feira</th>
+        <th>Quinta-feira</th>
+        <th>Sexta-feira</th>
+        <th>Sábado</th>
+      </tr>
+    </thead>
+    <tbody id="corpoCalendario">
+      <!-- Dias vão ser inseridos aqui via JavaScript -->
+    </tbody>
+  </table>
+
+  <script src="scripts.js"></script>
+
+  
+  
+
+  
+
+
+
+
+</body>
+
+</html>
