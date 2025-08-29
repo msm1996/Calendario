@@ -20,5 +20,8 @@ O objetivo foi praticar manipulação de datas no JavaScript e criar uma interfa
 <br>
 <h2>Imagem do Projeto:</h2>
 <img src= "https://github.com/msm1996/Calendario/blob/main/Captura%20de%20tela%202025-08-28%20223613.png?raw=true" />
+  
+<a>✍ Feito por [Myke Santana Martins:](https://www.linkedin.com/in/myke-santana-martins)<a/>
+
 
 
