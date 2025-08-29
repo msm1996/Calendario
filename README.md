@@ -11,8 +11,14 @@ O objetivo foi praticar manipulação de datas no JavaScript e criar uma interfa
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <br>
 <br>
-<h2>🚀 Funcionalidades:
+<h2>🚀 Funcionalidades:<h2/>
   <br>
 - Visualizar os dias do mês atual
   <br>
-- Navegar para meses anteriores e próximos </h2>
+- Navegar para meses anteriores e próximos 
+<br>
+<br>
+<h2>Imagem do Projeto:</h2>
+<img src= "https://github.com/msm1996/Calendario/blob/main/Captura%20de%20tela%202025-08-28%20223613.png?raw=true" />
+
+
