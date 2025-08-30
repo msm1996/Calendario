@@ -12,7 +12,6 @@ O objetivo foi praticar manipulação de datas no JavaScript e criar uma interfa
 <br>
 <br>
 <h2>🚀 Funcionalidades:<h2/>
-  <br>
 - Visualizar os dias do mês atual
   <br>
 - Navegar para meses anteriores e próximos 
