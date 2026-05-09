@@ -1,26 +1,53 @@
+
 <h1>📅 Calendário</h1>
-<br/>
-<h2>Este é um projeto de Calendário interativo desenvolvido com HTML, CSS e JavaScript.  
-O objetivo foi praticar manipulação de datas no JavaScript e criar uma interface simples para navegação entre meses.
-</h2>
-<h2>🚀 Tecnologias utilizadas:<h2/>
-- <a href="https://google.com"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /></a>
+
+<h2>Este é um projeto de calendário interativo desenvolvido com HTML, CSS e JavaScript.
+O objetivo do projeto foi praticar manipulação de datas no JavaScript e criar uma interface simples para navegação entre meses.</h2>
+
+<br>
+
+<h1>🚀 Tecnologias utilizadas</h1>
+
+<h2>- HTML5
   <br>
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+- CSS3
   <br>
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+- JavaScript</h2>
+
 <br>
-<br>
-<h2>🚀 Funcionalidades:<h2/>
-- Visualizar os dias do mês atual
+
+<h1>⚙️ Funcionalidades</h1>
+
+<h2>- 📅 Visualização dos dias do mês atual
   <br>
-- Navegar para meses anteriores e próximos 
+- ⬅️ Navegação para meses anteriores
+  <br>
+- ➡️ Navegação para próximos meses
+  <br>
+- 🎨 Interface simples e responsiva</h2>
+
 <br>
-<br>
+
+<h1>🧠 Aprendizados</h1>
+
+<h2>Neste projeto pratiquei:
+  <br>
+  <br>
+- Manipulação de datas com JavaScript
+  <br>
+- Manipulação do DOM
+  <br>
+- Eventos no JavaScript
+  <br>
+- Estruturação com HTML
+  <br>
+- Estilização com CSS
+  <br>
+- Lógica de navegação entre meses</h2>
+
+
 <h2>Imagem do Projeto:</h2>
 <img src= "https://github.com/msm1996/Calendario/blob/main/Captura%20de%20tela%202025-08-28%20223613.png?raw=true" />
-  
-<a>✍ Feito por [Myke Santana Martins:](https://www.linkedin.com/in/myke-santana-martins)<a/>
 
 
 
