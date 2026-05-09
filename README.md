@@ -2,6 +2,7 @@
 <h1>📅 Calendário</h1>
 
 <h2>Este é um projeto de calendário interativo desenvolvido com HTML, CSS e JavaScript.
+  
 O objetivo do projeto foi praticar manipulação de datas no JavaScript e criar uma interface simples para navegação entre meses.</h2>
 
 <br>
