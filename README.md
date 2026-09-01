@@ -1,54 +1,108 @@
+# 📅 Calendário Interativo
 
-<h1>📅 Calendário</h1>
+Aplicação Front-End desenvolvida com **HTML5, CSS3 e JavaScript** para exibição e navegação entre meses de um calendário.
 
-<h2>Este é um projeto de calendário interativo desenvolvido com HTML, CSS e JavaScript.
-  
-O objetivo do projeto foi praticar manipulação de datas no JavaScript e criar uma interface simples para navegação entre meses.</h2>
+O projeto foi criado para praticar principalmente **manipulação de datas com JavaScript**, lógica de programação, eventos e atualização dinâmica da interface.
 
-<br>
+---
 
-<h1>🚀 Tecnologias utilizadas</h1>
+## 📸 Preview
 
-<h2>- HTML5
-  <br>
-- CSS3
-  <br>
-- JavaScript</h2>
+![Calendário Interativo](https://github.com/msm1996/Calendario/blob/main/Captura%20de%20tela%202025-10-28%20134251.png?raw=true)
 
-<br>
+---
 
-<h1>⚙️ Funcionalidades</h1>
+## 🚀 Sobre o projeto
 
-<h2>- 📅 Visualização dos dias do mês atual
-  <br>
+O **Calendário Interativo** foi desenvolvido para colocar em prática conceitos fundamentais de JavaScript relacionados à manipulação de datas.
+
+A aplicação exibe os dias do mês atual e permite navegar entre meses anteriores e seguintes.
+
+Durante a navegação, o JavaScript é responsável por calcular e atualizar as informações apresentadas na interface.
+
+---
+
+## ✨ Funcionalidades
+
+- 📅 Visualização dos dias do mês
 - ⬅️ Navegação para meses anteriores
-  <br>
 - ➡️ Navegação para próximos meses
-  <br>
-- 🎨 Interface simples e responsiva</h2>
+- 🔄 Atualização dinâmica do calendário
+- 🖱️ Interação através de eventos
+- 📱 Interface responsiva
 
-<br>
+---
 
-<h1>🧠 Aprendizados</h1>
+## 🛠 Tecnologias utilizadas
 
-<h2>Neste projeto pratiquei:
-  <br>
-  <br>
-- Manipulação de datas com JavaScript
-  <br>
+- **HTML5** — estruturação da aplicação
+- **CSS3** — estilização e responsividade
+- **JavaScript** — lógica e manipulação das datas
+- **DOM** — atualização dinâmica dos elementos da interface
+
+---
+
+## 🧠 O que pratiquei neste projeto
+
+Durante o desenvolvimento deste projeto, pratiquei conceitos importantes de JavaScript, como:
+
+- Manipulação de datas
+- Lógica de programação
 - Manipulação do DOM
-  <br>
-- Eventos no JavaScript
-  <br>
-- Estruturação com HTML
-  <br>
+- Eventos em JavaScript
+- Atualização dinâmica da interface
+- Navegação entre meses
+- Estruturação de páginas com HTML
 - Estilização com CSS
-  <br>
-- Lógica de navegação entre meses</h2>
+- Responsividade
 
+---
 
-<h2>Imagem do Projeto:</h2>
-<img src= "https://github.com/msm1996/Calendario/blob/main/Captura%20de%20tela%202025-10-28%20134251.png?raw=true" />
+## ⚙️ Como funciona
+
+A aplicação utiliza JavaScript para controlar as informações exibidas no calendário.
+
+O funcionamento segue uma lógica simples:
+
+1. O calendário identifica o mês que deve ser exibido.
+2. O JavaScript organiza os dias correspondentes ao período.
+3. O usuário pode avançar ou voltar entre os meses.
+4. A interface é atualizada dinamicamente com as novas informações.
+
+---
+
+## 💻 Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/msm1996/Calendario.git
+```
+
+Entre na pasta:
+
+```bash
+cd Calendario
+```
+
+Abra o arquivo:
+
+```text
+index.html
+```
+
+no navegador.
+
+---
+
+## 👨‍💻 Autor
+
+**Myke Santana Martins**
+
+Desenvolvedor Front-End em formação, criando projetos com foco em **React.js, JavaScript, HTML5, CSS3 e integração com APIs REST**.
+
+- GitHub: https://github.com/MykeMartins96
+- LinkedIn: https://www.linkedin.com/in/myke-santana-martins
 
 
 
